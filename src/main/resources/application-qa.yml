@@ -1,0 +1,5 @@
+artel:
+  qa:
+    enabled: ${ARTEL_QA_ENABLED:false}
+    accounts: ${ARTEL_QA_ACCOUNTS:}
+    game-url: ${ARTEL_QA_GAME_URL:}
